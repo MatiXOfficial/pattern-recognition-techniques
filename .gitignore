@@ -1,3 +1,6 @@
 *.ipynb_checkpoints
 *saved_weights
 *downloaded_images
+*_checkpoints
+
+*lab5/plots
